@@ -1,6 +1,6 @@
 **Variables:**
 
-Variables are storage or containers that stores data in memory.
+A variable is a named memory location used to store data during program execution.
 
 Why Variables?
 
